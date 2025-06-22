@@ -6,3 +6,6 @@ matplotlib
 seaborn
 keras
 tensorflow
+lightgbm
+xgboost
+tqdm
