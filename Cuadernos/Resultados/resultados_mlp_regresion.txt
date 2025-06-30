@@ -1,0 +1,1158 @@
+Resultados de la optimización de hiperparámetros del modelo MLP de regresión:
+=============================================================================
+Mejores hiperparámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Mejor métrica: -2683939702.7903705
+
+Resultados detallados:
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58679965695.2567
+Desviación estándar: 7327041682.9901
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58679853157.8577
+Desviación estándar: 7327184239.0456
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58676898770.3802
+Desviación estándar: 7326809386.7992
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58677278197.9036
+Desviación estándar: 7327074893.0883
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56396792846.5667
+Desviación estándar: 7228966983.5201
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859902978.8256
+Desviación estándar: 6842396885.9703
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58678532099.1170
+Desviación estándar: 7327134860.6092
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58678459604.3121
+Desviación estándar: 7326957678.3658
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58673300345.1644
+Desviación estándar: 7326765263.0707
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58452744484.9391
+Desviación estándar: 7484689611.4968
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -54270799817.0937
+Desviación estándar: 7136182658.6636
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -38895688687.5553
+Desviación estándar: 6393673553.9822
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58679766879.3864
+Desviación estándar: 7327087003.7455
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58679725053.3463
+Desviación estándar: 7326963362.8862
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58676999688.6350
+Desviación estándar: 7326756825.3213
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58677061443.2702
+Desviación estándar: 7326688089.5027
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56397047364.3205
+Desviación estándar: 7229167648.2195
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859646466.1579
+Desviación estándar: 6842239493.7045
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58655915295.0505
+Desviación estándar: 7326080377.5990
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58563377501.0684
+Desviación estándar: 7321914111.0000
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58447889710.6778
+Desviación estándar: 7317294435.5407
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -57527202642.6527
+Desviación estándar: 7277729983.7270
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56396872289.1699
+Desviación estándar: 7228922416.3934
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859392454.5923
+Desviación estándar: 6842523754.4099
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58632464633.5714
+Desviación estándar: 7325116270.0065
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58450737628.2998
+Desviación estándar: 7317224937.2304
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58224566083.8494
+Desviación estándar: 7307548066.2392
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -56433074931.5457
+Desviación estándar: 7230483397.3410
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -54270618026.5532
+Desviación estándar: 7135559663.5289
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -38895513552.2829
+Desviación estándar: 6392827778.9259
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58656249178.7457
+Desviación estándar: 7325879025.0528
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58563588834.8400
+Desviación estándar: 7322000303.8945
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58447921777.1954
+Desviación estándar: 7317048575.6992
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -57527300985.5216
+Desviación estándar: 7277653979.8001
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56397007614.4954
+Desviación estándar: 7228704898.3343
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859781589.8920
+Desviación estándar: 6842633814.2111
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58680045055.0786
+Desviación estándar: 7327033827.1784
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58680020891.0589
+Desviación estándar: 7327095686.2383
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58676914376.8924
+Desviación estándar: 7327056301.4444
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58677146766.6715
+Desviación estándar: 7326967031.7634
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56396903340.2829
+Desviación estándar: 7229136955.9614
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47860129463.8966
+Desviación estándar: 6842381188.3279
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58678367288.0145
+Desviación estándar: 7326909600.9648
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58678575273.0134
+Desviación estándar: 7326984972.8060
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58673371336.8496
+Desviación estándar: 7326519954.1105
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58673053350.2816
+Desviación estándar: 7326949212.5003
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -54270663009.3993
+Desviación estándar: 7135516908.7152
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -38896044476.8201
+Desviación estándar: 6392771499.7289
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58679697493.0584
+Desviación estándar: 7326875207.1120
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58679793512.5811
+Desviación estándar: 7327018737.7856
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58677056317.1051
+Desviación estándar: 7326953267.9869
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58677067653.8033
+Desviación estándar: 7326792349.5089
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56397323774.3256
+Desviación estándar: 7229045820.0569
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47860438453.2185
+Desviación estándar: 6842500409.5891
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58656040378.7483
+Desviación estándar: 7325989300.3819
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58563650640.7201
+Desviación estándar: 7322139995.9968
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58447582423.7581
+Desviación estándar: 7317074653.4668
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -57527305907.5092
+Desviación estándar: 7277745501.6439
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56396777149.6783
+Desviación estándar: 7229010587.5038
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859432156.0139
+Desviación estándar: 6842462136.0136
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58632577101.6911
+Desviación estándar: 7324918696.9645
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58450622560.2538
+Desviación estándar: 7317101493.1736
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58224623205.3903
+Desviación estándar: 7307660515.0091
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -56433023579.2595
+Desviación estándar: 7230595927.8359
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -54270499126.8104
+Desviación estándar: 7135382761.0832
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -38895098066.3555
+Desviación estándar: 6393323094.7993
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58655950735.8637
+Desviación estándar: 7326055915.1029
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58563406038.6328
+Desviación estándar: 7322243665.7840
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58447898572.2453
+Desviación estándar: 7317201127.3873
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -57527396454.8418
+Desviación estándar: 7277818827.1024
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56397532061.9654
+Desviación estándar: 7229748344.7098
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859959469.5518
+Desviación estándar: 6841604583.2837
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58679901514.4791
+Desviación estándar: 7327057194.7032
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58679775675.5422
+Desviación estándar: 7327029261.5885
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58677042583.2069
+Desviación estándar: 7326745112.7703
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58677068425.9639
+Desviación estándar: 7326972161.2387
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56397389372.9592
+Desviación estándar: 7229382917.5215
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859825139.1887
+Desviación estándar: 6842111991.6953
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58678285844.1479
+Desviación estándar: 7326817535.8075
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58678232632.2711
+Desviación estándar: 7326906304.7803
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58673256246.5437
+Desviación estándar: 7326482547.3284
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58673162167.9583
+Desviación estándar: 7326685828.3315
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -54270718644.6662
+Desviación estándar: 7135834781.9318
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -38895613451.0375
+Desviación estándar: 6392069018.6665
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58679664047.5347
+Desviación estándar: 7326912224.3840
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58679696522.7782
+Desviación estándar: 7327117790.1626
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58677205268.1410
+Desviación estándar: 7327010708.5548
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58677135161.3735
+Desviación estándar: 7326872185.1346
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56397175719.5484
+Desviación estándar: 7229049134.0583
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859615856.3999
+Desviación estándar: 6842983902.2973
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58656234129.0570
+Desviación estándar: 7325797630.6596
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58563449687.0983
+Desviación estándar: 7322187500.2707
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58447784655.5481
+Desviación estándar: 7317190101.4952
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -57527243032.9049
+Desviación estándar: 7277718594.3533
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56396673283.7837
+Desviación estándar: 7229009258.8851
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859515645.4595
+Desviación estándar: 6842522330.2453
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58632549631.8677
+Desviación estándar: 7325046934.2214
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58450822123.2082
+Desviación estándar: 7317251748.8997
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58224523883.9483
+Desviación estándar: 7307745514.2458
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -56433054740.9841
+Desviación estándar: 7230611133.2336
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -54270313775.5601
+Desviación estándar: 7135636795.4539
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -38895376177.4513
+Desviación estándar: 6392696883.7305
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58656364398.2359
+Desviación estándar: 7325883452.3698
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58563347675.4508
+Desviación estándar: 7322035804.0179
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58447958046.5827
+Desviación estándar: 7317194452.4802
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -57527427123.1598
+Desviación estándar: 7277712626.7249
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56396866025.8620
+Desviación estándar: 7228944553.6359
+
+Parámetros: {'activation': 'tanh', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859425546.0067
+Desviación estándar: 6842238530.6003
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58679997436.6703
+Desviación estándar: 7326955087.3038
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58679714461.6644
+Desviación estándar: 7326910894.2332
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58677112133.6437
+Desviación estándar: 7326658564.3866
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58677298592.9153
+Desviación estándar: 7326884307.0117
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56396724684.1201
+Desviación estándar: 7228814895.8600
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859887091.1802
+Desviación estándar: 6842308085.5208
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58678498920.1838
+Desviación estándar: 7326946509.4730
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58678285778.0130
+Desviación estándar: 7326937827.4405
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58673098258.3294
+Desviación estándar: 7326899318.6120
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58672923894.5636
+Desviación estándar: 7326755239.5987
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -54271348404.1441
+Desviación estándar: 7135741441.4382
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -38896060085.9729
+Desviación estándar: 6393514702.0496
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58679851482.8554
+Desviación estándar: 7327077352.3840
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58679703304.6610
+Desviación estándar: 7327017075.6318
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58677062614.6088
+Desviación estándar: 7326745203.9993
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -58677017274.9824
+Desviación estándar: 7327004991.2656
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56397308686.3732
+Desviación estándar: 7229010638.9856
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47860087139.9547
+Desviación estándar: 6841924837.7189
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58656036617.5399
+Desviación estándar: 7325979336.9000
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58563345063.6573
+Desviación estándar: 7322108982.4368
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58447632685.6871
+Desviación estándar: 7317240806.7107
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -57527221669.8828
+Desviación estándar: 7277803911.6880
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56396954584.8034
+Desviación estándar: 7229430941.5921
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859549220.2400
+Desviación estándar: 6842415395.9559
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58632538007.8394
+Desviación estándar: 7325022893.2603
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58450820224.8284
+Desviación estándar: 7317100075.3942
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58224472642.5965
+Desviación estándar: 7307627199.8694
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -56432991584.1842
+Desviación estándar: 7230643504.5278
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -54270493160.1302
+Desviación estándar: 7135731846.7554
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -38894636322.9516
+Desviación estándar: 6393134962.9364
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58656327207.0556
+Desviación estándar: 7326030632.5126
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58563436732.8524
+Desviación estándar: 7321946272.4386
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -58447809606.4067
+Desviación estándar: 7316757950.5676
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -57527264517.4624
+Desviación estándar: 7277693487.0294
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -56397600613.9665
+Desviación estándar: 7229954838.8361
+
+Parámetros: {'activation': 'tanh', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -47859471524.3615
+Desviación estándar: 6842240150.5885
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58679609676.5455
+Desviación estándar: 7327184294.6856
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58679915789.3983
+Desviación estándar: 7327052375.5514
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3963562430.7103
+Desviación estándar: 2517298560.3267
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -3229227638.3694
+Desviación estándar: 1739560166.1685
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -2966039790.8624
+Desviación estándar: 1439701542.4065
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3025189875.3901
+Desviación estándar: 1319746498.5394
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -21665015083.9048
+Desviación estándar: 24821874632.3277
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -42324869033.8698
+Desviación estándar: 26347781348.8549
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3726397224.7148
+Desviación estándar: 2192254643.0047
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -3327864744.5101
+Desviación estándar: 1547112324.7855
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3484401448.2252
+Desviación estándar: 2285944145.1008
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3334194153.9643
+Desviación estándar: 1513541916.4297
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -18984520623.4814
+Desviación estándar: 24261646294.4130
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -38501584934.5494
+Desviación estándar: 27680507432.7520
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3983474920.5773
+Desviación estándar: 3919417261.0476
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -3231805353.4532
+Desviación estándar: 1645366198.3130
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3154694882.0917
+Desviación estándar: 1262602543.7029
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -2894577363.6715
+Desviación estándar: 1185547963.1982
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -6617927698.8403
+Desviación estándar: 3002128833.8613
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -2683939702.7904
+Desviación estándar: 1453220807.7423
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -2994778481.1714
+Desviación estándar: 1795619417.9505
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4216518893.9105
+Desviación estándar: 2762847376.5626
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3900715337.9589
+Desviación estándar: 2558501665.7894
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -4715356719.5014
+Desviación estándar: 4426624752.5801
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -4942749353.0386
+Desviación estándar: 2260310373.5936
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -3136723543.7908
+Desviación estándar: 2070204767.8401
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3311644349.5757
+Desviación estándar: 2163600573.9914
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4804607331.6888
+Desviación estándar: 5216799660.6018
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -5270600002.2613
+Desviación estándar: 6880884236.7739
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3830620449.2037
+Desviación estándar: 2816806536.9742
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -2807963627.8735
+Desviación estándar: 1205234499.5669
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -4046675516.8060
+Desviación estándar: 4573931748.3819
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3989682250.1739
+Desviación estándar: 4227283015.2748
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -5098501838.4378
+Desviación estándar: 6045443626.6528
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -5485220148.1589
+Desviación estándar: 8187241392.1802
+
+Parámetros: {'activation': 'relu', 'alpha': 0.001, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -4169292600.5167
+Desviación estándar: 4094877367.9618
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58679958040.5580
+Desviación estándar: 7327269804.5173
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58679808014.1332
+Desviación estándar: 7327100533.3073
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -2768821487.1840
+Desviación estándar: 1232094213.7002
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -5374124298.1940
+Desviación estándar: 4263218247.5921
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -2946592880.4528
+Desviación estándar: 1479678299.2470
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -2769299059.3535
+Desviación estándar: 726079397.1074
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -20005215244.5211
+Desviación estándar: 22446772038.2586
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -24966305890.7477
+Desviación estándar: 26782935295.7132
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3764058777.8083
+Desviación estándar: 2918915128.4875
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -3304975681.9649
+Desviación estándar: 1812193805.5982
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -2983841080.1025
+Desviación estándar: 1371807429.6914
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3555778039.3865
+Desviación estándar: 2505158758.6103
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -20587029210.3334
+Desviación estándar: 25355384499.2005
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -53559616739.9833
+Desviación estándar: 18269766915.1334
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3418549537.0648
+Desviación estándar: 2437622999.3782
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -2969079411.2299
+Desviación estándar: 1120061588.9739
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3511708615.8563
+Desviación estándar: 2181483249.6683
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3448991503.0731
+Desviación estándar: 1140855139.6541
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -6827226614.5638
+Desviación estándar: 2864066824.5762
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -2722987475.2632
+Desviación estándar: 1655735492.6443
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -2969583405.2042
+Desviación estándar: 1641690081.7453
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4053707739.7425
+Desviación estándar: 2779452195.5066
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -5027558551.5736
+Desviación estándar: 5152918814.9058
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -4099365946.8965
+Desviación estándar: 2522312749.1772
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -4847021018.2050
+Desviación estándar: 2183108497.6772
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -3122031998.5309
+Desviación estándar: 2005230505.0859
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3374094330.4521
+Desviación estándar: 2286950108.4803
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4546997841.1935
+Desviación estándar: 4678791644.2010
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -5125312132.7887
+Desviación estándar: 5992304593.3773
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -4051377904.9792
+Desviación estándar: 2672484004.8790
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -2836595341.2277
+Desviación estándar: 1379515037.7369
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -4442899567.0541
+Desviación estándar: 5576810586.9219
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3930385098.3506
+Desviación estándar: 3980235682.4422
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4670367419.3928
+Desviación estándar: 5310499705.3804
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -4464736048.7119
+Desviación estándar: 4497171991.3341
+
+Parámetros: {'activation': 'relu', 'alpha': 0.01, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -5770715333.5937
+Desviación estándar: 8544834143.1127
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -58680225508.7870
+Desviación estándar: 7326662566.1495
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -53981572913.6031
+Desviación estándar: 17862785281.4643
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -4659226532.9999
+Desviación estándar: 4249898234.8921
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -3685563072.6615
+Desviación estándar: 2363027070.6510
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3035641157.5451
+Desviación estándar: 1631846965.6686
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3809301197.2774
+Desviación estándar: 3477816066.6239
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -37490488904.4464
+Desviación estándar: 27123539260.0009
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -25760742103.7870
+Desviación estándar: 26618155956.6052
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3152522233.4600
+Desviación estándar: 1257786097.9250
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -5053360941.3369
+Desviación estándar: 2576900360.7784
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3449622655.0302
+Desviación estándar: 1810066668.1626
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3091723991.7176
+Desviación estándar: 1804160644.6220
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -30841227873.6653
+Desviación estándar: 26871710128.3071
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -42367480856.2619
+Desviación estándar: 25620699074.3402
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3393822314.1700
+Desviación estándar: 2403860438.1506
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -3043066765.2035
+Desviación estándar: 1264248138.1004
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3046483999.7248
+Desviación estándar: 1584134467.1613
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3171729193.4485
+Desviación estándar: 1216045079.1730
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -6656230600.4578
+Desviación estándar: 2814481688.2825
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -2687480396.2207
+Desviación estándar: 1479309977.6114
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -2903514716.4787
+Desviación estándar: 1489031216.0288
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4819605248.1406
+Desviación estándar: 5585993585.3474
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -4072514498.6719
+Desviación estándar: 2640804840.8441
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3962276342.8722
+Desviación estándar: 2543134026.8783
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -4777462371.5710
+Desviación estándar: 2127663887.1270
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -3273991709.1198
+Desviación estándar: 2495224282.6809
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3411527662.2923
+Desviación estándar: 2344247862.1976
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4672429708.6099
+Desviación estándar: 5074560979.4833
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -4090463042.9415
+Desviación estándar: 2755361054.0307
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -4892369009.2170
+Desviación estándar: 5472732966.6629
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -2991719130.0824
+Desviación estándar: 1264285948.5359
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -4240187247.1869
+Desviación estándar: 5229390101.4629
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -4159715436.9750
+Desviación estándar: 4450098315.2446
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -5131403603.2391
+Desviación estándar: 6545380326.4641
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3916921548.5706
+Desviación estándar: 2685136788.5024
+
+Parámetros: {'activation': 'relu', 'alpha': 0.1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -4402796328.9058
+Desviación estándar: 5009349536.9141
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -53682410832.3411
+Desviación estándar: 17934641089.9256
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -58680091453.9271
+Desviación estándar: 7327146950.2357
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -4825043758.4044
+Desviación estándar: 2546109318.0434
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -2954292074.2667
+Desviación estándar: 1365108431.3252
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3514776751.7891
+Desviación estándar: 2170246081.6346
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3833591697.6859
+Desviación estándar: 2744530103.9255
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -37106610666.2009
+Desviación estándar: 25730646102.8937
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -52218736143.7460
+Desviación estándar: 18187503058.5703
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3966305233.8643
+Desviación estándar: 2281768558.5003
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -2950030550.9604
+Desviación estándar: 1234344515.7367
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -3358406608.8167
+Desviación estándar: 1208254200.1018
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3732159433.8457
+Desviación estándar: 1699966857.7467
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -30532743665.4700
+Desviación estándar: 27856872279.4245
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -36007270626.4994
+Desviación estándar: 28011082694.2435
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -4055261973.3861
+Desviación estándar: 2650123848.1019
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -2885744926.6291
+Desviación estándar: 1460388587.6312
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -2862595263.5074
+Desviación estándar: 1270312671.2562
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': True, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3245667621.3243
+Desviación estándar: 1229782914.2599
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -6742588998.1791
+Desviación estándar: 2994541619.4625
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -2701224504.2667
+Desviación estándar: 1418235840.7735
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3049028393.0461
+Desviación estándar: 1751124772.2851
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4065315222.0072
+Desviación estándar: 2633763479.4752
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -4200794511.2536
+Desviación estándar: 2574023407.8389
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -4087220361.2084
+Desviación estándar: 2492081827.7993
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -4850527156.7719
+Desviación estándar: 2254643020.8025
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -3203406681.8622
+Desviación estándar: 2130606064.4183
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -3441271834.2032
+Desviación estándar: 2582096650.8295
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4633056886.0343
+Desviación estándar: 4366182075.3775
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -4024205248.8010
+Desviación estándar: 2655037620.5831
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -3854938567.3085
+Desviación estándar: 2875738219.3096
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 1000}
+Métrica: -2740484255.7085
+Desviación estándar: 1241580475.2314
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.001, 'max_iter': 5000}
+Métrica: -3839571422.4571
+Desviación estándar: 3948861477.0472
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 1000}
+Métrica: -4175365062.7598
+Desviación estándar: 4560171072.9484
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.01, 'max_iter': 5000}
+Métrica: -4859656726.4312
+Desviación estándar: 5410865184.5651
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 1000}
+Métrica: -5443202161.9560
+Desviación estándar: 7485388642.7221
+
+Parámetros: {'activation': 'relu', 'alpha': 1, 'early_stopping': False, 'hidden_layer_sizes': (100, 50, 25), 'learning_rate_init': 0.1, 'max_iter': 5000}
+Métrica: -4386586272.4188
+Desviación estándar: 4981614251.5860
+
